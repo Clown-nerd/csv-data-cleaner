@@ -1,0 +1,5 @@
+row,column,value,issue
+3,Email,john.kamau@example,invalid email
+6,Date of Birth,31/02/1998,unrecognised date format
+8,Phone,12345,invalid Kenyan phone number
+9,Date of Birth,not a date,unrecognised date format
